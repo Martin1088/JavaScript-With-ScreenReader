@@ -1,0 +1,11 @@
+#farm {
+    position: absolute;
+    z-index: 0;
+}
+#cow {
+    width: 300px;
+    left: 350px;
+    top: 600px;
+    position: relative;
+    z-index: -1;
+}

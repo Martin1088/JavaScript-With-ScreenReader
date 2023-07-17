@@ -1,0 +1,11 @@
+# alle zip
+*.zip
+# Haushaltsbuch ordner mit eignem repo 
+kurs/
+# reste
+*.log
+*.jpg
+*.gif
+*.png
+*.json
+vendor/

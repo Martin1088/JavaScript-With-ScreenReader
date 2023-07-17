@@ -1,0 +1,17 @@
+<html lang="en">
+    <header>
+        <h1>Hexa Quiz! </h1>
+    </header>
+    <body>
+        <script src="hexa.js"></script>
+        <h2>The <span id="numbertype"></span>  number is:  <span id="quest"> </span></h2>
+        <button type="button" onclick="getRndInt(1, 65535)">Get Decimal number</button>
+        <br>
+        <button type="button" onclick="getRndHexa(1, 65535)">Get Hexa number</button>
+        <br> <span id="quest"></span>
+        <form>
+            <input type="text" name="answer" alt="Answer">
+            <br> <button type="button" onclick="checkAnswer()">Check your Answer</button> 
+        </form>
+    </body>
+</html>
