@@ -2,6 +2,9 @@
 *.zip
 # Haushaltsbuch ordner mit eignem repo 
 kurs/
+# Docker 
+*.yml
+DOCKERFILE
 # reste
 *.log
 *.jpg
