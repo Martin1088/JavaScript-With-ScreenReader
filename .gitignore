@@ -4,7 +4,7 @@
 kurs/
 # Docker 
 *.yml
-DOCKERFILE
+Dockerfile
 # reste
 *.log
 *.jpg
